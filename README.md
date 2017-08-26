@@ -24,6 +24,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+
+[This link works](http://www.google.com)
+
 ```
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 

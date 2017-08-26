@@ -28,7 +28,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 [This link works](http://www.google.com)
 
 
-![First Image](https://github.com/fh2017/summer/blob/master/748.JPG)
+![First Image](../748.JPG)
 
 ```
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).

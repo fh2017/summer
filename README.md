@@ -14,9 +14,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ## Vacation
 ### Where to go
 
-- _June_
-- _July_
-- _August_
+- `June`
+- `July`
+- `August`
 
 1. Numbered
 2. List
